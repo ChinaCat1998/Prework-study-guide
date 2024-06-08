@@ -1,2 +1,2 @@
 # Prework-study-guide
-Study guide for corse pre-work
+Study guide for course pre-work

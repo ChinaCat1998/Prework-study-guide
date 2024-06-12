@@ -1,8 +1,18 @@
-const topic = "HTML";
+const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+var shapes = ["triangle", "square", "pentagon", "circle"];
 
-    const shapes = ["triangle", "square", "pentagon", "circle"];
-    for(let x = 0; x < shapes.length; x++) {
-     console.log(shapes[x]);
-    }
-const shapes = ["triangle", "square", "pentagon", "circle"];
-console.log(shapes[0]);
+for (var x = 0; x < shapes.length; x++){
+    console.log(shapes[x]); 
+}/*
+if (topic === 'HTML') {
+ console.log("Let's study HTML!");
+} else if (topic === 'CSS') {
+ console.log("Let's study CSS!");
+} else if (topic === 'Git') {
+ console.log("Let's study Git!");
+} else if (topic === 'JavaScript') {
+ console.log("Let's study JavaScript!");
+} else {
+ console.log('Please try again!');
+}
+*/

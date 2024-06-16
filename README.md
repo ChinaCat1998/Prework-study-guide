@@ -1,7 +1,7 @@
-# < Prework Study Guide Webpage >
+# Prework Study Guide Webpage 
 
 ## Description
-Comprehensive study guid for coding bootcamp prework
+Comprehensive study guide for coding bootcamp prework
 
 
 ## Installation 
